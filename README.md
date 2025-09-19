@@ -1,1 +1,1 @@
-Repo agar bisa ngodding cross device.
+Repo agar bisa ngoding cross device.
